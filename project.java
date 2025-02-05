@@ -1,7 +1,5 @@
 /*
 Adam Khan
-COP2251C
-Due Date: 4/7/2024
 */
 import javax.swing.JLabel;
 import javax.swing.JTextField;
