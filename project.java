@@ -1,6 +1,9 @@
 /*
 Adam Khan
 */
+
+// Project displays multiple calculations & gives options to multiple options that can be selected.
+
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import java.awt.*;
